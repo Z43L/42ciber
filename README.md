@@ -8,6 +8,19 @@
 - [hidden]([hidden](https://mega.nz/file/EO8DzKgR#V3Vj8pWT6dUfWP03Zi2ZNs-o3uztnrTd1qGxvnn3oHo)) -> medium >>>> https://home.mycloud.com/action/share/e4ebf09b-cb56-4c5e-a345-ebdf54177ce4
 - [injection]([injection](https://mega.nz/file/wLN2nQ7B#p0YzUFAsrE3ilnJ9HzMr1hfsUq2DPYiDHlIU_9IEizU)) -> easy >>>>  https://home.mycloud.com/action/share/0357c556-8565-45a8-b586-bc1c3cf86aca
 
+# como descargar maquina ataque
+# imagen atacante
+
+```jsx
+docker pull blackarchlinux/blackarch
+```
+
+# como hacceder al contenedor
+
+```bash
+docker run -it --rm --name mi_arch -p 8080:8080 -p 8081:8081 blackarchlinux/blackarch /bin/bash
+```
+
 # como desplegar laboratorio
 
 Copiar el script de abajo y ejecutar 
