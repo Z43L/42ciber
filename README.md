@@ -1,7 +1,8 @@
 # 42ciber
 
 ## pasos para clonar el repo
-
+# enlacce al binario con el ctf
+- ctf_game >>>> https://home.mycloud.com/action/share/a5c0cb0a-1926-4254-b050-2a9ecfdb599c
 # enlace de descarga de las maqinas de [Dockerlabs.es](https://dockerlabs.es/#/)
 - [hackthehieven]([hacktheheaven](https://mega.nz/file/9G0BCDTC#YMVrW5AmlCfRDFm5fZgz1FWZkHsHK-F0tgM3WcfZfzY)) -> hard >>>> https://home.mycloud.com/action/share/d357d797-014d-4abf-8d5b-99a01eec8d95
 - [hidden]([hidden](https://mega.nz/file/EO8DzKgR#V3Vj8pWT6dUfWP03Zi2ZNs-o3uztnrTd1qGxvnn3oHo)) -> medium >>>> https://home.mycloud.com/action/share/e4ebf09b-cb56-4c5e-a345-ebdf54177ce4
