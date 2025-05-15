@@ -29,6 +29,13 @@ Copiar el script de abajo y ejecutar
 
 ```
 
+cuando querais acceder a la web del reto segun como hemos desplegado antes tenemos que accder a la ip de nuestro ordenador por el puerto 8080
+
+```
+192.168.1.122:8080 #ejemplo
+```
+
+
 # el escript a copiar 
 
 ```
