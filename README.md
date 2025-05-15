@@ -1,9 +1,6 @@
 # 42ciber
 
 ## pasos para clonar el repo
-```bash
-git lfs clone https://github.com/Z43L/42ciber.git
-```
 
 # enlace de descarga de las maqinas de [Dockerlabs.es](https://dockerlabs.es/#/)
 - [hackthehieven]([hacktheheaven](https://mega.nz/file/9G0BCDTC#YMVrW5AmlCfRDFm5fZgz1FWZkHsHK-F0tgM3WcfZfzY)) -> hard >>>> https://home.mycloud.com/action/share/d357d797-014d-4abf-8d5b-99a01eec8d95
